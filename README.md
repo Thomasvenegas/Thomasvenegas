@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola a todos 👋
 
-<!--
-**Thomasvenegas/Thomasvenegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Thomas Venegas Ingeniero Civil Informatico y soy desarrollador full stack
 
-Here are some ideas to get you started:
+## 📩 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📂 [Linkedin](https://www.linkedin.com/in/thomas-venegas-55553b218/) <br>
+  ✉️ [Correo](thomasloezar@gmail.com)
+
+## 👨🏽‍💻 Que Hago?
+
+- Desarollador Backend
+- Experiencia con java y spring boot
+- Microservicios
+- Documentacion UML
+- Vistas 4+1
+- actualmente aprendiendo Docker y Kuberenetes
+
+## 🔨Tecnologias
+- Java
+- Spring boot
+- HTML
+- CSS
+- JavaScript
+- React
+
+## 💼 Proyectos
+
+- Api para la administracion de un taller de bicicletas [API Taller Bicicletas](https://github.com/Thomasvenegas/Api-Taller-Bicicletas)
+
+
+
+
+
+
