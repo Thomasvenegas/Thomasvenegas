@@ -1,6 +1,6 @@
 # Hola a todos 👋
 
-Soy Thomas Venegas Ingeniero Civil Informatico y soy desarrollador full stack
+Soy Thomas Venegas Ingeniero Civil Informatico 
 
 ## 📩 Contacto
 
