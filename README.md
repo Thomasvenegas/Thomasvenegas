@@ -22,7 +22,7 @@ Soy Thomas Venegas Ingeniero Civil Informatico
 - HTML
 - CSS
 - JavaScript
-- React
+- Angular
 
 ## 💼 Proyectos
 
